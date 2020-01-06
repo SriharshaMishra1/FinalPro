@@ -4,9 +4,8 @@ public class nonstatic {
 	
 	int i=10;//non static variable
 
-	
 	public static void main(String[] args) { //static area
-		
+		System.out.println("new change");
 		//object creation necessary
 		nonstatic ns=new nonstatic();
 		System.out.println(ns.i);
