@@ -4,6 +4,7 @@ public class nonstatic {
 	
 	int i=10;//non static variable
 
+	
 	public static void main(String[] args) { //static area
 		
 		//object creation necessary
